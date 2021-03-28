@@ -76,9 +76,8 @@ For any questions, please contact Matt Schwartz at [mtschwart@gmail.com](mailto:
 ├── .canvas
 ├── .gitignore
 ├── CONTRIBUTING.md
-├── King_County_Home_Price_Predictions_Presentation.pdf
-├── Link_to_Presentation_Recording.docx
-├── Predicting_Housing_Prices_In_King_County.ipynb
-├── Predicting_Housing_Prices_In_King_County_Jupyter_Notebook.pdf
+├── Predicting_Employee_Attrtion_Phase_3_Project.ipynb
+├── Predicting_Employee_Attrtion_Phase_3_Project_Jupyter_Notebook.pdf
+├── Predicting_Employee_Attrtion_Presentation.pdf
 ├── README.md
 ```
